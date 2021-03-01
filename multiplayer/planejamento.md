@@ -10,7 +10,7 @@
   * [ ] Lógica
   * [ ] Blocos
   * [ ] Criação de mods \(baixa prioridade\)
-  * [ ] 
+  * [ ] ...
 * [ ] Adicionar referências a outros guias
 * [ ] ...
 
