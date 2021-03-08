@@ -5,6 +5,18 @@ Aqui você vera um guia passo a passo de como hostear um server no PC
 ## Passos
 
 * Baixe e instale o JDK 8 ou uma versão mais recente por [aqui](https://adoptopenjdk.net/) ou por sua fonte preferida
+* Faça o Port Foward das portas 6567 TCP e UDP
+
+{% hint style="info" %}
+Pesquise como fazer Port Foward no seu roteador, pois cada roteador tem uma maneira diferente de fazer de acordo com o fabricante
+{% endhint %}
+
+{% hint style="danger" %}
+**Tome cuidado ao compartilhar o seu IP na internet!**
+
+Use serviços como [noip](https://www.noip.com/) para mascarar seu IP e tornar mais fácil o compartilhamento
+{% endhint %}
+
 * Baixe os arquivos do server na [pagina do Mindustry no itch.io](https://anuke.itch.io/mindustry)
 
 ![Aperte em &quot;Download Now&quot; ](../../.gitbook/assets/download1.png)
