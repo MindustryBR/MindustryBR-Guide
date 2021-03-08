@@ -4,7 +4,7 @@ Aqui você vera um guia passo a passo de como hostear um server no PC
 
 ## Passos
 
-* Baixe e instale JDK 8 ou uma versão mais recente por [aqui](https://adoptopenjdk.net/) ou por sua fonte preferida
+* Baixe e instale o JDK 8 ou uma versão mais recente por [aqui](https://adoptopenjdk.net/) ou por sua fonte preferida
 * Baixe os arquivos do server na [pagina do Mindustry no itch.io](https://anuke.itch.io/mindustry)
 
 ![Aperte em &quot;Download Now&quot; ](../../.gitbook/assets/download1.png)
@@ -25,4 +25,47 @@ Aqui você vera um guia passo a passo de como hostear um server no PC
 Caso a janela abra e feche imediatamente, verifique se a instalação do JDK foi feita corretamente e se você seguiu todos os passos informados. Caso o problema persista peça ajuda no [server do Discord](https://discord.gg/Rt5HjqW)
 {% endhint %}
 
-* 
+* Para abrir o server use o comando host
+
+{% hint style="warning" %}
+Ao usar o comando host o server irá ser iniciado em um mapa aleatório no modo survival, caso queira usar um mapa ou modo de jogo específico use o comando como mostrado abaixo
+
+```text
+host nome_do_mapa modo_de_jogo
+```
+
+O nome do mapa tem que ser em letras minúsculas e substituindo espaços por sublinhados.  
+  
+Exemplo 1: Iniciar o server no mapa Debris Field no modo survival
+
+```text
+host debris_field
+```
+
+ou
+
+```text
+host debris_field survival
+```
+
+Exemplo 2: Iniciar o server no mapa Mud Flats no modo criativo
+
+```text
+host mud_flats sandbox
+```
+
+Exemplo 3: Iniciar o server no mapa Ancient Caldera no modo PVP
+
+```text
+host ancient_caldera pvp
+```
+{% endhint %}
+
+{% hint style="info" %}
+Você pode ver a lista de mapas usando o comando maps
+{% endhint %}
+
+
+
+
+
