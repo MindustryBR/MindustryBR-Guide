@@ -7,5 +7,8 @@
 * [Hostear servers](multiplayer/hostear-servers/README.md)
   * [PC](multiplayer/hostear-servers/pc.md)
   * [Celular](multiplayer/hostear-servers/celular.md)
-* [PLANEJAMENTO](multiplayer/planejamento.md)
+
+---
+
+* [PLANEJAMENTO](planejamento.md)
 

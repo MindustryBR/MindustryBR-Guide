@@ -1,11 +1,11 @@
 # PLANEJAMENTO
 
-* [ ] Melhorar introdução \([BEM VINDO](../)\)
+* [ ] Melhorar introdução \([BEM VINDO](./)\)
 * [ ] Adicionar guias sobre:
   * [ ] Multiplayer
     * [ ] Hostear server \(alta prioridade\)
-      * [ ] PC \(em progresso\) \([PC](hostear-servers/pc.md)\)
-      * [ ] Celular \([Celular](hostear-servers/celular.md)\)
+      * [ ] PC \(em progresso\) \([PC](multiplayer/hostear-servers/pc.md)\)
+      * [ ] Celular \([Celular](multiplayer/hostear-servers/celular.md)\)
     * [ ] Jogar em servers públicos
   * [ ] Lógica
   * [ ] Blocos
