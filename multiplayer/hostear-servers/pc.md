@@ -77,6 +77,10 @@ host ancient_caldera pvp
 Você pode ver a lista de mapas usando o comando maps
 {% endhint %}
 
+{% hint style="danger" %}
+Repetindo mais uma vez. Tome bastante cuidado ao compartilhar seu IP na internet, é perigoso que pessoas usem seu IP para fim maliciosos, use serviços como [noip](https://www.noip.com) para mascarar seu IP, além de tornar o compartilhamento mais fácil.
+{% endhint %}
+
 
 
 
