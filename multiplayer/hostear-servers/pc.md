@@ -1,6 +1,8 @@
-# PC
+---
+description: Aqui você vera um guia passo a passo de como hostear um server no PC
+---
 
-Aqui você vera um guia passo a passo de como hostear um server no PC
+# PC
 
 ## Passos
 
