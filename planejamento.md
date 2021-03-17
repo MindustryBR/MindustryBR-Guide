@@ -1,3 +1,7 @@
+---
+description: Planejamento futuro
+---
+
 # PLANEJAMENTO
 
 * [ ] Melhorar introdução \([BEM VINDO](./)\)
