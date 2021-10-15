@@ -7,10 +7,10 @@ description: Planejamento futuro
 * [ ] Melhorar introdução ([BEM VINDO](./))
 * [ ] Adicionar guias sobre:
   * [ ] Multiplayer
-    * [ ] Hostear server (alta prioridade)
-      * [ ] PC (em progresso) ([PC](multiplayer/hostear-servers/pc.md))
+    * [ ] Hostear servidores (alta prioridade)
+      * [x] PC ([PC](multiplayer/hostear-servers/pc.md))
       * [ ] Celular ([Celular](multiplayer/hostear-servers/celular.md))
-      * [ ] Hosts dedicada / serviços de host
+      * [x] Hosts dedicada / serviços de host ([Host dedicada](multiplayer/hostear-servers/host-dedicada.md))
     * [ ] Jogar em servers públicos
   * [ ] Lógica
   * [ ] Blocos

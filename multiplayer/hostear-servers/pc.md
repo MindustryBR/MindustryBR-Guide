@@ -1,10 +1,8 @@
 ---
-description: Aqui você vera um guia passo a passo de como hostear um server no PC
+description: Aqui você verá um guia passo a passo de como hostear um servidor no PC
 ---
 
 # PC
-
-## Passos
 
 * Baixe e instale o JDK 16 ou uma versão mais recente por [aqui](https://adoptopenjdk.net) ou por sua fonte preferida
 * Faça o Port Foward das portas 6567 TCP e UDP
