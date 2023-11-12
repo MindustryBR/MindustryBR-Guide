@@ -14,6 +14,8 @@ description: Planejamento futuro
     * [ ] Jogar em servers públicos
   * [ ] Lógica
   * [ ] Blocos
+  * [ ] Criação de schematics
+  * [ ] Criação de mapas
   * [ ] Criação de mods (baixa prioridade)
   * [ ] ...
 * [ ] Adicionar referências a outros guias
