@@ -8,10 +8,10 @@
   * [PC](multiplayer/hostear-servers/pc.md)
   * [Celular](multiplayer/hostear-servers/celular.md)
   * [Host dedicada](multiplayer/hostear-servers/host-dedicada.md)
-* [Lógica](logica/guia-basico/README.md)
+* [Lógica](logica/README.md)
   * [Guia inicial](logica/guia-basico/guia-inicial.md)
-  * [Ref. instruções](logica/guia-basico/instrucoes.md)
-  * [Ref. valores](logica/guia-basico/valores.md)
+  * [Ref. instruções](logica/referencias/instrucoes.md)
+  * [Ref. valores](logica/referencias/valores.md)
 
 ***
 
