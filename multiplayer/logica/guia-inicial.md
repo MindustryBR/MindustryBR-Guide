@@ -1,3 +1,0 @@
-# Guia inicial
-
-teste aaaaaaaaaaaaaaaa
