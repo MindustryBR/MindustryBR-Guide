@@ -4,7 +4,7 @@
 
 ## Multiplayer
 
-* [Como jogar com amigos](jogar-online/README.md)
+* [Como jogar com amigos](multiplayer/jogar-online/README.md)
 * [Hostear servidores](multiplayer/hostear-servers/README.md)
   * [PC](multiplayer/hostear-servers/pc.md)
   * [Celular](multiplayer/hostear-servers/celular.md)
