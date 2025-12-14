@@ -7,6 +7,9 @@ description: >-
 
 Existem vários jeitos de jogar com amigos, cada um com suas vantagens e desvantagens.
 
+Com varia opções sem download de nenhum programa, como via [LAN](#jogar-via-lan), [steam](#steam), [servidores já existentes](#servidor-já-existentes) ou [criando um servidor online](#criando-seu-própio-servidor-online) 
+
+Também pode ser feito [baixando um VPN](#usando-vpn) no seu dispositivo, baixando um mod chamado [scheme-size-lite](#usando-claj) ou feito diretamente no computado [criando um servidor](#hosteando-servidor).
 
 ## Sem downloads
 
@@ -26,7 +29,7 @@ Contras:
 
 *Tutorial em andamento*
 
-### Servidor
+### Servidor já existentes
 
 Prós:
 - Zero Downloads
@@ -52,6 +55,17 @@ Contras:
 - Pago para obter esse mindustry (R$ 20.69, podendo ter descontos de até 55%)
 
 *Tutorial em andamento*
+
+### Criando seu própio servidor online
+
+Pode ser feito usando servidores própios para isso como usando [GodLike](https://godlike.host/mindustry-server-hosting/), ou outros pesquisando no google. (Aceito opiniões sobre outros servidores para lista-los aqui.)
+
+Prós:
+- Pode manter o servidor atívo mesmo você fora do jogo.
+- Permite instalação de plugins para obter uma gameplay bem diferente do padrão.
+Contras:
+- Não permite campanha
+- Todas as opções grátis (que eu saiba) precisam ser renovadas diariamente para manter ligado.
 
 ## Usando VPN
 
@@ -100,22 +114,22 @@ Prós:
 - Crossplay.
 
 Contras:
-- ¯\\\_(ツ)\_/¯
+- Altera a experiência do vanilla (ruim para jogadores iniciantes.)
 
 Tutorial:
 
-1.  entra no mapa e clica em Hospedar servidor
-1. Clica em `Manage CLaJ Rooms`
+1. Instale o mod chamado `scheme-size-lite`
+2. Entra no mapa e clica em Hospedar servidor
+3. Clica em `Manage CLaJ Rooms`
 
 ![teste](<https://media.discordapp.net/attachments/699824411208843325/1178318925323325460/image.png>)
 
-3. Clica em claj.phoenix
-4. Clica em create room
+4. Clica em claj.phoenix
+5. Clica em create room
 
 ![Create Rooms](https://media.discordapp.net/attachments/699824411208843325/1178319095133900861/image.png?ex=6575b62c&is=6563412c&hm=d67192f5715021277b272c799c502377c59076ef34b6d46df972fc147de9e276&=&format=webp&width=722&height=264)
 
-5. Copia o código que aparecer e envia para seus amigos
-
+6. Copia o código que aparecer e envia para seus amigos
 
 ## Hosteando servidor
 
