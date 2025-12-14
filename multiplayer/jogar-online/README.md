@@ -7,7 +7,7 @@ description: >-
 
 Existem vários jeitos de jogar com amigos, cada um com suas vantagens e desvantagens.
 
-Com varia opções sem download de nenhum programa, como via [LAN](#jogar-via-lan), [steam](#steam), [servidores já existentes](#servidor-já-existentes) ou [criando um servidor online](#criando-seu-própio-servidor-online) 
+Com varia opções sem download de nenhum programa, como via [LAN](#jogar-via-lan), [steam](#steam), [servidores já existentes](#servidor-já-existentes) ou [criando em uma host dedicada](#criando-seu-própio-servidor-online) 
 
 Também pode ser feito [baixando um VPN](#usando-vpn) no seu dispositivo, baixando um mod chamado [scheme-size-lite](#usando-claj) ou feito diretamente no computado [criando um servidor](#hosteando-servidor).
 
@@ -58,7 +58,7 @@ Contras:
 
 ### Criando seu própio servidor online
 
-Pode ser feito usando servidores própios para isso como usando [GodLike](https://godlike.host/mindustry-server-hosting/), ou outros pesquisando no google. (Aceito opiniões sobre outros servidores para lista-los aqui.)
+Pode ser feito usando servidores própios para isso como usando [GodLike](https://godlike.host/mindustry-server-hosting/), [YeetHosting](/multiplayer/hostear-servers/host-dedicada.md) ou outros pesquisando no google. (Aceito opiniões sobre outros servidores para lista-los aqui.)
 
 Prós:
 - Pode manter o servidor atívo mesmo você fora do jogo.
